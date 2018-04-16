@@ -25,7 +25,9 @@ DHTsensorquery.zip
 LMsensorquery.zip
 
 
-5. On the Arduino UNO master compile and upload the sketch:
+5. On the Attiny85's upload the respective code for each sensor. You can use Arduino as ISP and the ISP shield to upload your code.
+
+6. On the Arduino UNO master compile and upload the sketch:
 osws_master.ino 
 
 In case all hardware has been set up correctly the output of the serial monitor on the Arduino IDE shall be similar to the following:
