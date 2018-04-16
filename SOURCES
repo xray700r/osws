@@ -1,0 +1,27 @@
+#########I2C Tiny Wire#########
+
+#Arduino TinyWire Slave Library found at:
+
+#https://github.com/rambo/TinyWire
+
+
+#########Pressure Sensor Bosch Sensortec BMP180#########
+
+#Version of bmp180 sensor driver and library found at:
+
+#https://github.com/BoschSensortec/BMP180_driver
+
+
+#########Humidity sensor DHT 11#########
+
+#DHT 11 sensor library found at:
+
+#https://github.com/adafruit/DHT-sensor-library
+
+
+
+#########Light Sensor on Attiny 85#########
+
+#Attiny photoresistor i2c code found at:
+
+#https://github.com/DzikuVx/attiny_photoresistor_i2c
