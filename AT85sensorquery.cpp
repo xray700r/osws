@@ -7,6 +7,11 @@ These functions have the purpose of reading through the ATTINY-85 library the 10
 Created by Moisi Xhaferaj, 05/03/2018.
 Released into the public domain.
 
+Part of the original code from:
+
+https://github.com/DzikuVx/attiny_photoresistor_i2c
+
+
 */
 
 /////////////Simple function for reading an I2C LDR sensor 
