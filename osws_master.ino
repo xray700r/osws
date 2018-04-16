@@ -58,7 +58,7 @@ int tempPin = 1;
 
 #define I2C_SLAVE1 0x13 //luminance level 10 bit
 
-#define I2C_SLAVE2 0x08 //radiated powerlevel
+//#define I2C_SLAVE2 0x08 //radiated powerlevel
 
 // You will need to create an SFE_BMP180 object, here called "pressure":
 
@@ -105,7 +105,7 @@ float bmp180altitude=103; // meters
 
 AT85sensorquery(I2C_SLAVE1, 2000, luminance);
 
-AT85sensorquery(I2C_SLAVE2, 2000, irradiatedpower);
+//AT85sensorquery(I2C_SLAVE2, 2000, irradiatedpower);
 
 DHTsensorquery(DHT11_PIN, 3000, dht11hum, dht11temp);
 
