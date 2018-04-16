@@ -6,7 +6,7 @@ These function calls have the purpose of reading the output of the sensors
 connected through the I2C bus or directly to the Arduino Uno master.
 
 Author Moisi Xhaferaj, 05/03/2018.
-Released into the public domain under CC 3.0.
+Released into the public domain.
 
 #########I2C Tiny Wire#########
 
